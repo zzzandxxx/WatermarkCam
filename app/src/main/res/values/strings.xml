@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">水印打卡</string>
+
+    <string name="hint_title">标题</string>
+    <string name="hint_location">地点</string>
+    <string name="hint_remark">备注</string>
+    <string name="hint_person">打卡人</string>
+    <string name="hint_project">单位 / 项目</string>
+
+    <string name="btn_shoot">拍摄</string>
+    <string name="btn_logo">Logo</string>
+    <string name="btn_style">水印</string>
+    <string name="btn_records">记录</string>
+    <string name="btn_settings">设置</string>
+
+    <string name="tip_no_camera">未检测到可用摄像头</string>
+    <string name="tip_need_camera">需要相机权限才能拍照</string>
+    <string name="tip_saved">已保存到相册</string>
+    <string name="tip_save_failed">保存失败</string>
+    <string name="tip_locating">定位中…</string>
+    <string name="tip_loc_failed">定位失败</string>
+</resources>

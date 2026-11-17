@@ -1,0 +1,27 @@
+# Android build
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+local.properties
+
+# IDE
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 签名密钥（含密码，绝不入库；clone 后自行放置并填写密码）
+keystore/
+*.jks
+*.keystore
+
+# 调试产物
+r*.xml
+hierarchy/
+
+# OS
+.DS_Store
+Thumbs.db
